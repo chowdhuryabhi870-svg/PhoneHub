@@ -1,0 +1,12 @@
+# 🔐 Secret files - NEVER upload to GitHub!
+config.js
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
